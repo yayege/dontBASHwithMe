@@ -2,4 +2,4 @@
 ## BASH operations and implementations over the OS.
 
 
-#### Basic encryption implementation with bash
+#### playgame.sh : this is the bash game.
